@@ -1,0 +1,92 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "advanced-logistics-system",
+      "enabled": true
+    },
+    {
+      "name": "beltSorter",
+      "enabled": false
+    },
+    {
+      "name": "bobinserters",
+      "enabled": false
+    },
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
+      "name": "ElectricTrain",
+      "enabled": true
+    },
+    {
+      "name": "FactorioMaps",
+      "enabled": false
+    },
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    {
+      "name": "Foreman",
+      "enabled": true
+    },
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    {
+      "name": "long-reach-research",
+      "enabled": true
+    },
+    {
+      "name": "Orbital Ion Cannon",
+      "enabled": true
+    },
+    {
+      "name": "research-queue",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
+      "name": "Side Inserters",
+      "enabled": true
+    },
+    {
+      "name": "upgrade-planner",
+      "enabled": true
+    },
+    {
+      "name": "Warehousing v15",
+      "enabled": true
+    },
+    {
+      "name": "YARM",
+      "enabled": true
+    },
+    {
+      "name": "ZRecycling",
+      "enabled": false
+    }
+  ]
+}
