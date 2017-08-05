@@ -5,28 +5,56 @@
       "enabled": true
     },
     {
+      "name": "aai-programmable-structures",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    },
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": true
+    },
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    {
       "name": "advanced-logistics-system",
       "enabled": true
     },
     {
-      "name": "beltSorter",
-      "enabled": false
-    },
-    {
-      "name": "bobinserters",
-      "enabled": false
+      "name": "Advanced_Machines",
+      "enabled": true
     },
     {
       "name": "Bottleneck",
       "enabled": true
     },
     {
-      "name": "ElectricTrain",
+      "name": "data-raw-prototypes",
       "enabled": true
     },
     {
-      "name": "FactorioMaps",
-      "enabled": false
+      "name": "detached-gun-sounds",
+      "enabled": true
+    },
+    {
+      "name": "ElectricTrain",
+      "enabled": true
     },
     {
       "name": "Factorissimo2",
@@ -57,6 +85,10 @@
       "enabled": true
     },
     {
+      "name": "off-grid-effects",
+      "enabled": true
+    },
+    {
       "name": "Orbital Ion Cannon",
       "enabled": true
     },
@@ -73,7 +105,15 @@
       "enabled": true
     },
     {
+      "name": "TeslaTurret",
+      "enabled": true
+    },
+    {
       "name": "upgrade-planner",
+      "enabled": true
+    },
+    {
+      "name": "Vehicle Wagon",
       "enabled": true
     },
     {
@@ -81,12 +121,12 @@
       "enabled": true
     },
     {
-      "name": "YARM",
+      "name": "wireless-signals",
       "enabled": true
     },
     {
-      "name": "ZRecycling",
-      "enabled": false
+      "name": "YARM",
+      "enabled": true
     }
   ]
 }
