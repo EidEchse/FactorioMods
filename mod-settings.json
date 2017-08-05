@@ -21,12 +21,6 @@
     "ion-cannon-bob-updates": {
       "value": true
     },
-    "start-with-unit-remote-control": {
-      "value": true
-    },
-    "start-with-vehicle-miner": {
-      "value": true
-    },
     "long-reach-research_use-four-level-tech": {
       "value": false
     },
@@ -133,9 +127,6 @@
     },
     "ion-cannon-min-cannons-ready": {
       "value": 2
-    },
-    "aai-max-structs-per-tick": {
-      "value": 0
     },
     "helmod_debug": {
       "value": "none"

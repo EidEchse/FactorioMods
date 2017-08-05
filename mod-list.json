@@ -5,34 +5,6 @@
       "enabled": true
     },
     {
-      "name": "aai-programmable-structures",
-      "enabled": true
-    },
-    {
-      "name": "aai-programmable-vehicles",
-      "enabled": true
-    },
-    {
-      "name": "aai-signals",
-      "enabled": true
-    },
-    {
-      "name": "aai-vehicles-hauler",
-      "enabled": true
-    },
-    {
-      "name": "aai-vehicles-laser-tank",
-      "enabled": true
-    },
-    {
-      "name": "aai-vehicles-miner",
-      "enabled": true
-    },
-    {
-      "name": "aai-zones",
-      "enabled": true
-    },
-    {
       "name": "advanced-logistics-system",
       "enabled": true
     },
@@ -42,14 +14,6 @@
     },
     {
       "name": "Bottleneck",
-      "enabled": true
-    },
-    {
-      "name": "data-raw-prototypes",
-      "enabled": true
-    },
-    {
-      "name": "detached-gun-sounds",
       "enabled": true
     },
     {
@@ -82,10 +46,6 @@
     },
     {
       "name": "long-reach-research",
-      "enabled": true
-    },
-    {
-      "name": "off-grid-effects",
       "enabled": true
     },
     {
