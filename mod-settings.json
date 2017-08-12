@@ -1,5 +1,8 @@
 {
   "startup": {
+    "hybrid-train": {
+      "value": true
+    },
     "Factorissimo2-easy-research": {
       "value": false
     },
@@ -87,7 +90,7 @@
       "value": true
     },
     "ltn-interface-console-level": {
-      "value": "2: notifications"
+      "value": "2: Notifications"
     },
     "ltn-interface-message-filter-age": {
       "value": 18000
@@ -153,6 +156,9 @@
       "value": false
     },
     "helmod_display_data_col_name": {
+      "value": false
+    },
+    "helmod_display_data_col_type": {
       "value": false
     },
     "helmod_filter_on_text_changed": {
@@ -238,6 +244,9 @@
     },
     "rso-reveal-spawned-resources": {
       "value": false
+    },
+    "rso-multi-resource-active": {
+      "value": true
     }
   },
   "runtime-per-user": {
