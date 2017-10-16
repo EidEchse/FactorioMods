@@ -3,6 +3,18 @@
     "hybrid-train": {
       "value": true
     },
+    "mk-cargo": {
+      "value": true
+    },
+    "mk-fluid": {
+      "value": false
+    },
+    "mk-train": {
+      "value": true
+    },
+    "vanilla-order": {
+      "value": false
+    },
     "Factorissimo2-easy-research": {
       "value": false
     },
@@ -22,6 +34,12 @@
       "value": true
     },
     "ion-cannon-bob-updates": {
+      "value": true
+    },
+    "bobmods-inserters-long2": {
+      "value": true
+    },
+    "bobmods-inserters-more2": {
       "value": true
     },
     "long-reach-research_use-four-level-tech": {
@@ -87,6 +105,9 @@
       "value": "all trains"
     },
     "loader-snapping": {
+      "value": true
+    },
+    "ltn-dispatcher-enabled": {
       "value": true
     },
     "ltn-interface-console-level": {
