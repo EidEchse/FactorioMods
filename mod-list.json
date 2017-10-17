@@ -5,12 +5,8 @@
       "enabled": true
     },
     {
-      "name": "advanced-logistics-system",
-      "enabled": false
-    },
-    {
-      "name": "Advanced_Machines",
-      "enabled": false
+      "name": "beltSorter",
+      "enabled": true
     },
     {
       "name": "bobinserters",
@@ -34,7 +30,7 @@
     },
     {
       "name": "Foreman",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "HandyHands",
@@ -57,7 +53,11 @@
       "enabled": true
     },
     {
-      "name": "Orbital Ion Cannon",
+      "name": "MIRV",
+      "enabled": true
+    },
+    {
+      "name": "OutpostPlanner",
       "enabled": true
     },
     {
@@ -69,12 +69,8 @@
       "enabled": true
     },
     {
-      "name": "Side Inserters",
-      "enabled": false
-    },
-    {
-      "name": "TeslaTurret",
-      "enabled": false
+      "name": "TrainSpeedLimit",
+      "enabled": true
     },
     {
       "name": "upgrade-planner",

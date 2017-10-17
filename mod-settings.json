@@ -18,24 +18,6 @@
     "Factorissimo2-easy-research": {
       "value": false
     },
-    "ion-cannon-radius": {
-      "value": 25
-    },
-    "ion-cannon-heatup-multiplier": {
-      "value": 2
-    },
-    "ion-cannon-laser-damage": {
-      "value": 2500
-    },
-    "ion-cannon-explosion-damage": {
-      "value": 1000
-    },
-    "ion-cannon-flames": {
-      "value": true
-    },
-    "ion-cannon-bob-updates": {
-      "value": true
-    },
     "bobmods-inserters-long2": {
       "value": true
     },
@@ -133,24 +115,6 @@
     },
     "ltn-dispatcher-finish-loading": {
       "value": true
-    },
-    "ion-cannon-auto-targeting": {
-      "value": true
-    },
-    "ion-cannon-target-worms": {
-      "value": true
-    },
-    "ion-cannon-auto-target-visible": {
-      "value": true
-    },
-    "ion-cannon-cooldown-seconds": {
-      "value": 300
-    },
-    "ion-cannon-chart-tag-duration": {
-      "value": 720
-    },
-    "ion-cannon-min-cannons-ready": {
-      "value": 2
     },
     "helmod_debug": {
       "value": "none"
@@ -280,20 +244,8 @@
     "Factorissimo2-preview-zoom": {
       "value": 1
     },
-    "ion-cannon-play-voices": {
-      "value": true
-    },
-    "ion-cannon-voice-style": {
-      "value": "CommandAndConquer"
-    },
-    "ion-cannon-play-klaxon": {
-      "value": true
-    },
-    "ion-cannon-ready-ticks": {
-      "value": 300
-    },
-    "ion-cannon-custom-alerts": {
-      "value": true
+    "YARM-warn-percent": {
+      "value": 10
     },
     "helmod_default_factory_level": {
       "value": "last"
