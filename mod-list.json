@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "name": "advanced-logistics-system",
+      "enabled": true
+    },
+    {
       "name": "beltSorter",
       "enabled": true
     },
@@ -53,7 +57,7 @@
       "enabled": true
     },
     {
-      "name": "MIRV",
+      "name": "Orbital Ion Cannon",
       "enabled": true
     },
     {
