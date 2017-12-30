@@ -1,338 +1,291 @@
 {
   "startup": {
-    "hybrid-train": {
-      "value": true
+    "sct-difficulty-cost": {
+      "value": "normal"
     },
-    "mk-cargo": {
-      "value": true
-    },
-    "mk-fluid": {
-      "value": false
-    },
-    "mk-train": {
-      "value": true
-    },
-    "vanilla-order": {
-      "value": false
-    },
-    "Factorissimo2-easy-research": {
-      "value": false
-    },
-    "ion-cannon-radius": {
-      "value": 25
-    },
-    "ion-cannon-heatup-multiplier": {
-      "value": 2
-    },
-    "ion-cannon-laser-damage": {
-      "value": 2500
-    },
-    "ion-cannon-explosion-damage": {
-      "value": 1000
-    },
-    "ion-cannon-flames": {
-      "value": true
-    },
-    "ion-cannon-bob-updates": {
-      "value": true
-    },
-    "bobmods-inserters-long2": {
-      "value": true
-    },
-    "bobmods-inserters-more2": {
-      "value": true
-    },
-    "long-reach-research_use-four-level-tech": {
-      "value": false
-    },
-    "long-reach-research_enable-long-reach-t5": {
-      "value": true
-    },
-    "long-reach-research_enable-long-reach-t6": {
-      "value": true
-    },
-    "long-reach-research_enable-long-build-t5": {
-      "value": true
-    },
-    "long-reach-research_enable-long-build-t6": {
-      "value": false
-    },
-    "long-mine-research_enable-long-mine": {
-      "value": true
-    },
-    "long-mine-research_enable-long-mine-t5": {
-      "value": true
-    },
-    "long-pickup-research_enable-long-pickup": {
-      "value": false
-    },
-    "long-pickup-research_enable-long-pickup-t5": {
-      "value": true
-    },
-    "long-loot-research_enable-long-loot": {
-      "value": false
-    },
-    "long-loot-research_expensive-technology": {
-      "value": false
-    },
-    "long-loot-research_enable-long-loot-t5": {
-      "value": true
-    },
-    "rso-vanilla-biter-generation": {
-      "value": false
-    }
-  },
-  "runtime-global": {
-    "bottleneck-signals-per-tick": {
-      "value": 40
-    },
-    "bottleneck-show-running-as": {
-      "value": "green"
-    },
-    "bottleneck-show-stopped-as": {
-      "value": "red"
-    },
-    "bottleneck-show-full-as": {
-      "value": "yellow"
-    },
-    "Factorissimo2-free-recursion": {
-      "value": false
-    },
-    "Factorissimo2-hide-recursion": {
-      "value": false
-    },
-    "loader-use-trains": {
-      "value": "all trains"
-    },
-    "loader-snapping": {
-      "value": true
-    },
-    "ltn-dispatcher-enabled": {
-      "value": true
-    },
-    "ltn-interface-console-level": {
-      "value": "2: Notifications"
-    },
-    "ltn-interface-message-filter-age": {
-      "value": 18000
-    },
-    "ltn-interface-debug-logfile": {
-      "value": false
-    },
-    "ltn-dispatcher-requester-threshold": {
-      "value": 1000
-    },
-    "ltn-dispatcher-provider-threshold": {
-      "value": 1000
-    },
-    "ltn-dispatcher-stop-timeout": {
-      "value": 7200
-    },
-    "ltn-dispatcher-delivery-timeout": {
-      "value": 18000
-    },
-    "ltn-dispatcher-finish-loading": {
-      "value": true
-    },
-    "ion-cannon-auto-targeting": {
-      "value": true
-    },
-    "ion-cannon-target-worms": {
-      "value": true
-    },
-    "ion-cannon-auto-target-visible": {
-      "value": true
-    },
-    "ion-cannon-cooldown-seconds": {
-      "value": 300
-    },
-    "ion-cannon-chart-tag-duration": {
-      "value": 720
-    },
-    "ion-cannon-min-cannons-ready": {
-      "value": 2
-    },
-    "YARM-ticks-between-checks": {
-      "value": 600
-    },
-    "YARM-endless-resource-base": {
-      "value": 0
-    },
-    "YARM-overlay-step": {
+    "SpaceX-research": {
       "value": 1
     },
-    "helmod_debug": {
-      "value": "none"
-    },
-    "helmod_debug_filter": {
-      "value": "all"
-    },
-    "helmod_format_number_element": {
-      "value": "0.0"
-    },
-    "helmod_format_number_factory": {
-      "value": "0"
-    },
-    "helmod_display_all_sheet": {
-      "value": false
-    },
-    "helmod_display_real_name": {
-      "value": false
-    },
-    "helmod_display_data_col_index": {
-      "value": false
-    },
-    "helmod_display_data_col_id": {
-      "value": false
-    },
-    "helmod_display_data_col_name": {
-      "value": false
-    },
-    "helmod_display_data_col_type": {
-      "value": false
-    },
-    "helmod_filter_on_text_changed": {
-      "value": false
-    },
-    "helmod_model_filter_factory": {
-      "value": true
-    },
-    "helmod_model_filter_beacon": {
-      "value": true
-    },
-    "helmod_model_filter_factory_module": {
-      "value": true
-    },
-    "helmod_model_filter_beacon_module": {
-      "value": true
-    },
-    "helmod_model_filter_generator": {
-      "value": true
-    },
-    "helmod_properties_tab": {
-      "value": false
-    },
-    "long-reach-research_initial-reach-distance-bonus": {
-      "value": 0
-    },
-    "long-reach-research_initial-build-distance-bonus": {
-      "value": 0
-    },
-    "long-mine-research_initial-mine-distance-bonus": {
-      "value": 0
-    },
-    "long-pickup-research_initial-pickup-distance-bonus": {
-      "value": 0
-    },
-    "long-loot-research_initial-loot-distance-bonus": {
-      "value": 0
-    },
-    "rso-region-size": {
-      "value": 7
-    },
-    "rso-starting-richness-mult": {
+    "SpaceX-production": {
       "value": 1
     },
-    "rso-resource-chance": {
+    "SpaceX-launch-profile": {
+      "value": "Classic"
+    },
+    "SpaceX-ignore-tech-multiplier": {
+      "value": false
+    },
+    "SpaceX-no-space-sci": {
+      "value": false
+    },
+    "SpaceX-cheaper-fusion-reactor": {
+      "value": false
+    },
+    "angels-enable-converter": {
+      "value": true
+    },
+    "angels-hide-converter": {
+      "value": true
+    },
+    "angels-enable-acids": {
+      "value": true
+    },
+    "angels-enable-auto-barreling": {
+      "value": false
+    },
+    "angels-marathon-buildingmulti": {
+      "value": 2
+    },
+    "angels-marathon-buildingtime": {
+      "value": 2
+    },
+    "angels-marathon-intermediatemulti": {
+      "value": 1
+    },
+    "angels-marathon-rawmulti": {
+      "value": 1
+    },
+    "bobmods-assembly-chemicalplants": {
+      "value": true
+    },
+    "bobmods-assembly-electrolysers": {
+      "value": true
+    },
+    "bobmods-assembly-electronicmachines": {
+      "value": true
+    },
+    "bobmods-assembly-furnaces": {
+      "value": true
+    },
+    "bobmods-assembly-multipurposefurnaces": {
+      "value": true
+    },
+    "bobmods-assembly-oilrefineries": {
+      "value": true
+    },
+    "bobmods-logistics-drainlessinserters": {
+      "value": false
+    },
+    "bobmods-logistics-extremelyfastbelt": {
+      "value": true
+    },
+    "bobmods-logistics-flyingrobotframes": {
+      "value": true
+    },
+    "bobmods-logistics-roboportrecipeupdate": {
+      "value": true
+    },
+    "bobmods-logistics-robotparts": {
+      "value": true
+    },
+    "bobmods-logistics-robotrequireprevious": {
+      "value": true
+    },
+    "bobmods-gems-amethystratio": {
       "value": 0.5
     },
-    "rso-global-richness-mult": {
-      "value": 1
-    },
-    "rso-global-size-mult": {
-      "value": 1
-    },
-    "rso-biter-generation": {
-      "value": true
-    },
-    "rso-enemy-chance": {
-      "value": 0.25
-    },
-    "rso-enemy-base-size": {
-      "value": 1
-    },
-    "rso-distance-exponent": {
-      "value": 1.1
-    },
-    "rso-fluid-distance-exponent": {
-      "value": 0.6
-    },
-    "rso-size-exponent": {
+    "bobmods-gems-diamondratio": {
       "value": 0.2
     },
-    "rso-use-donuts": {
-      "value": false
+    "bobmods-gems-emeraldratio": {
+      "value": 0.6
     },
-    "rso-remove-trees": {
-      "value": false
-    },
-    "rso-infinite-ores-in-start-area": {
-      "value": false
-    },
-    "rso-infinite-ore-threshold": {
-      "value": 0.7
-    },
-    "rso-reveal-spawned-resources": {
-      "value": false
-    },
-    "rso-multi-resource-active": {
-      "value": true
-    }
-  },
-  "runtime-per-user": {
-    "Factorissimo2-preview-enabled": {
-      "value": true
-    },
-    "Factorissimo2-preview-size": {
-      "value": 300
-    },
-    "Factorissimo2-preview-zoom": {
+    "bobmods-gems-rubyratio": {
       "value": 1
     },
-    "ion-cannon-play-voices": {
+    "bobmods-gems-sapphireratio": {
+      "value": 0.8
+    },
+    "bobmods-gems-topazratio": {
+      "value": 0.4
+    },
+    "bobmods-ores-enablebauxite": {
+      "value": false
+    },
+    "bobmods-ores-enablecobaltore": {
+      "value": false
+    },
+    "bobmods-ores-enablegemsore": {
+      "value": false
+    },
+    "bobmods-ores-enablegoldore": {
+      "value": false
+    },
+    "bobmods-ores-enableleadore": {
+      "value": false
+    },
+    "bobmods-ores-enablenickelore": {
+      "value": false
+    },
+    "bobmods-ores-enablequartz": {
+      "value": false
+    },
+    "bobmods-ores-enablerutile": {
+      "value": false
+    },
+    "bobmods-ores-enablesilverore": {
+      "value": false
+    },
+    "bobmods-ores-enablesulfur": {
+      "value": false
+    },
+    "bobmods-ores-enablethoriumore": {
+      "value": false
+    },
+    "bobmods-ores-enabletinore": {
+      "value": false
+    },
+    "bobmods-ores-enabletungstenore": {
+      "value": false
+    },
+    "bobmods-ores-enablewaterores": {
+      "value": false
+    },
+    "bobmods-ores-enablezincore": {
+      "value": false
+    },
+    "bobmods-ores-enhancestone": {
       "value": true
     },
-    "ion-cannon-voice-style": {
-      "value": "CommandAndConquer"
+    "bobmods-ores-gemprobability": {
+      "value": 0.05
     },
-    "ion-cannon-play-klaxon": {
+    "bobmods-ores-gemsfromotherores": {
+      "value": false
+    },
+    "bobmods-ores-infiniteore": {
+      "value": false
+    },
+    "bobmods-ores-leadgivesnickel": {
+      "value": false
+    },
+    "bobmods-ores-leadnickelratio": {
+      "value": 0.6
+    },
+    "bobmods-ores-nickelcobaltratio": {
+      "value": 0.4
+    },
+    "bobmods-ores-nickelgivescobalt": {
+      "value": false
+    },
+    "bobmods-ores-unsortedgemore": {
+      "value": false
+    },
+    "bobmods-plates-batteryupdate": {
       "value": true
     },
-    "ion-cannon-ready-ticks": {
-      "value": 300
-    },
-    "ion-cannon-custom-alerts": {
+    "bobmods-plates-cheapersteel": {
       "value": true
     },
-    "YARM-warn-percent": {
-      "value": 10
+    "bobmods-plates-groundwater": {
+      "value": false
     },
-    "helmod_default_factory_level": {
-      "value": "last"
+    "bobmods-plates-inventorysize": {
+      "value": 60
     },
-    "helmod_display_size": {
-      "value": "1680x1050"
-    },
-    "helmod_display_size_free": {
-      "value": ""
-    },
-    "helmod_display_main_icon": {
+    "bobmods-plates-oreoverride": {
       "value": true
     },
-    "helmod_display_location": {
-      "value": "center"
+    "bobmods-plates-purewater": {
+      "value": true
     },
-    "helmod_display_cell_mod": {
-      "value": "default"
+    "bobmods-plates-vanillabarrelling": {
+      "value": false
     },
-    "helmod_display_product_cols": {
+    "replstats-speed-base": {
+      "value": 1
+    },
+    "replstats-speed-factor": {
+      "value": 2
+    },
+    "replstats-energy-base": {
+      "value": 256
+    },
+    "replstats-energy-factor": {
+      "value": 2.5
+    },
+    "replstats-pollution-base": {
+      "value": 1
+    },
+    "replstats-pollution-factor": {
+      "value": 1.75
+    },
+    "replstats-size-base": {
+      "value": 2
+    },
+    "replstats-size-addend": {
+      "value": 0
+    },
+    "replstats-modules-base": {
+      "value": 1
+    },
+    "replstats-modules-addend": {
+      "value": 0.5
+    },
+    "repltype-ore": {
+      "value": true
+    },
+    "repltype-element": {
+      "value": true
+    },
+    "repltype-shape": {
+      "value": true
+    },
+    "repltype-alloy": {
+      "value": true
+    },
+    "repltype-chemical": {
+      "value": true
+    },
+    "repltype-device2": {
+      "value": true
+    },
+    "repltype-device3": {
+      "value": true
+    },
+    "repltype-device4": {
+      "value": true
+    },
+    "repltype-device5": {
+      "value": true
+    },
+    "repltype-life": {
+      "value": true
+    },
+    "repltype-module": {
+      "value": true
+    },
+    "repltype-exotic": {
+      "value": true
+    },
+    "repltype-magic": {
+      "value": true
+    },
+    "repltype-alien": {
+      "value": true
+    },
+    "repltype-science": {
+      "value": true
+    },
+    "replresearch-item-multiplier": {
+      "value": 25
+    },
+    "replresearch-item-time": {
       "value": 5
     },
-    "helmod_display_ingredient_cols": {
-      "value": 5
+    "replresearch-tier-multiplier": {
+      "value": 50
     },
-    "helmod_row_move_step": {
-      "value": 5
+    "replresearch-tier-time": {
+      "value": 1
+    },
+    "replication-penalty": {
+      "value": 0.5
+    },
+    "replication-fluid-quantity": {
+      "value": 25
     }
-  }
+  },
+  "runtime-global": {},
+  "runtime-per-user": {}
 }

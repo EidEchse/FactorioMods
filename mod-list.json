@@ -5,95 +5,123 @@
       "enabled": true
     },
     {
-      "name": "advanced-logistics-system",
+      "name": "angelsbioprocessing",
       "enabled": true
     },
     {
-      "name": "beltSorter",
+      "name": "angelscomponents",
       "enabled": true
     },
     {
-      "name": "bobinserters",
+      "name": "angelspetrochem",
       "enabled": true
     },
     {
-      "name": "Bottleneck",
+      "name": "angelsrefining",
       "enabled": true
     },
     {
-      "name": "ElectricTrain",
+      "name": "angelssmelting",
       "enabled": true
     },
     {
-      "name": "Factorissimo2",
+      "name": "A Sea Block Config",
       "enabled": true
     },
     {
-      "name": "FARL",
+      "name": "bobassembly",
       "enabled": true
     },
     {
-      "name": "Foreman",
+      "name": "bobelectronics",
       "enabled": true
     },
     {
-      "name": "HandyHands",
+      "name": "bobenemies",
       "enabled": true
     },
     {
-      "name": "helmod",
+      "name": "boblibrary",
       "enabled": true
     },
     {
-      "name": "LoaderRedux",
+      "name": "boblogistics",
       "enabled": true
     },
     {
-      "name": "LogisticTrainNetwork",
+      "name": "bobmodules",
       "enabled": true
     },
     {
-      "name": "long-reach-research",
+      "name": "bobores",
       "enabled": true
     },
     {
-      "name": "Orbital Ion Cannon",
+      "name": "bobplates",
       "enabled": true
     },
     {
-      "name": "OutpostPlanner",
+      "name": "bobpower",
       "enabled": true
     },
     {
-      "name": "research-queue",
+      "name": "bobtech",
+      "enabled": true
+    },
+    {
+      "name": "dark-matter-replicators",
+      "enabled": true
+    },
+    {
+      "name": "FNEI",
+      "enabled": false
+    },
+    {
+      "name": "Free_Real_Estate",
+      "enabled": false
+    },
+    {
+      "name": "GameDogChroma",
+      "enabled": true
+    },
+    {
+      "name": "inf_res",
+      "enabled": true
+    },
+    {
+      "name": "LandfillPainting",
+      "enabled": true
+    },
+    {
+      "name": "Nuclear Fuel",
+      "enabled": false
+    },
+    {
+      "name": "Power Armor MK3",
       "enabled": true
     },
     {
       "name": "rso-mod",
+      "enabled": false
+    },
+    {
+      "name": "ScienceCostTweaker",
       "enabled": true
     },
     {
-      "name": "TrainSpeedLimit",
+      "name": "SeaBlock",
       "enabled": true
     },
     {
-      "name": "upgrade-planner",
+      "name": "SeablockTweaks",
       "enabled": true
     },
     {
-      "name": "Vehicle Wagon",
+      "name": "SpaceMod",
       "enabled": true
     },
     {
-      "name": "Warehousing v15",
-      "enabled": true
-    },
-    {
-      "name": "wireless-signals",
-      "enabled": true
-    },
-    {
-      "name": "YARM",
+      "name": "SpaceMod-bobs",
       "enabled": true
     }
   ]
