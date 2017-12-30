@@ -5,10 +5,6 @@
       "enabled": true
     },
     {
-      "name": "advanced-logistics-system",
-      "enabled": true
-    },
-    {
       "name": "beltSorter",
       "enabled": true
     },
@@ -25,6 +21,10 @@
       "enabled": true
     },
     {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    {
       "name": "Factorissimo2",
       "enabled": true
     },
@@ -33,35 +33,27 @@
       "enabled": true
     },
     {
-      "name": "Foreman",
-      "enabled": true
-    },
-    {
-      "name": "HandyHands",
-      "enabled": true
-    },
-    {
       "name": "helmod",
       "enabled": true
     },
     {
       "name": "LoaderRedux",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "LogisticTrainNetwork",
       "enabled": true
     },
     {
-      "name": "long-reach-research",
-      "enabled": true
-    },
-    {
-      "name": "Orbital Ion Cannon",
+      "name": "long-reach",
       "enabled": true
     },
     {
       "name": "OutpostPlanner",
+      "enabled": true
+    },
+    {
+      "name": "PlannerCore",
       "enabled": true
     },
     {
@@ -73,10 +65,6 @@
       "enabled": true
     },
     {
-      "name": "TrainSpeedLimit",
-      "enabled": true
-    },
-    {
       "name": "upgrade-planner",
       "enabled": true
     },
@@ -85,11 +73,7 @@
       "enabled": true
     },
     {
-      "name": "Warehousing v15",
-      "enabled": true
-    },
-    {
-      "name": "wireless-signals",
+      "name": "Warehousing",
       "enabled": true
     },
     {

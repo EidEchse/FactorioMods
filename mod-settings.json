@@ -80,6 +80,18 @@
     },
     "rso-vanilla-biter-generation": {
       "value": false
+    },
+    "Factorissimo2-power-batching": {
+      "value": 1
+    },
+    "NE_Evolution_Factor_Tweak": {
+      "value": true
+    },
+    "NE_Harder_Endgame": {
+      "value": true
+    },
+    "NE_No_Expansion": {
+      "value": true
     }
   },
   "runtime-global": {
@@ -99,7 +111,7 @@
       "value": false
     },
     "Factorissimo2-hide-recursion": {
-      "value": false
+      "value": true
     },
     "loader-use-trains": {
       "value": "all trains"
@@ -277,6 +289,21 @@
     },
     "rso-multi-resource-active": {
       "value": true
+    },
+    "ltn-dispatcher-depot-inactivity": {
+      "value": 300
+    },
+    "ltn-dispatcher-requester-delivery-reset": {
+      "value": false
+    },
+    "rso-oil-in-start-area": {
+      "value": true
+    },
+    "long-reach-build-distance": {
+      "value": 125
+    },
+    "long-reach-reach-distance": {
+      "value": 125
     }
   },
   "runtime-per-user": {
@@ -333,6 +360,9 @@
     },
     "helmod_row_move_step": {
       "value": 5
+    },
+    "research-queue_popup-on-queue-finish": {
+      "value": false
     }
   }
 }
