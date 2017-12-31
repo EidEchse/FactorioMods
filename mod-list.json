@@ -5,12 +5,8 @@
       "enabled": true
     },
     {
-      "name": "beltSorter",
-      "enabled": true
-    },
-    {
       "name": "bobinserters",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Bottleneck",
@@ -18,7 +14,7 @@
     },
     {
       "name": "ElectricTrain",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "EvoGUI",
@@ -26,7 +22,7 @@
     },
     {
       "name": "Factorissimo2",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "FARL",
@@ -42,7 +38,7 @@
     },
     {
       "name": "LogisticTrainNetwork",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "long-reach",
@@ -62,7 +58,7 @@
     },
     {
       "name": "rso-mod",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "upgrade-planner",
@@ -74,7 +70,7 @@
     },
     {
       "name": "Warehousing",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "YARM",
