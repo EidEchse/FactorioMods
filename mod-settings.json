@@ -363,6 +363,9 @@
     },
     "research-queue_popup-on-queue-finish": {
       "value": false
+    },
+    "farl_display_messages": {
+      "value": false
     }
   }
 }
