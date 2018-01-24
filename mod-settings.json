@@ -366,6 +366,15 @@
     },
     "farl_display_messages": {
       "value": false
+    },
+    "research-queue-rows-count": {
+      "value": 8
+    },
+    "research-queue-table-height": {
+      "value": 8
+    },
+    "research-queue-table-width": {
+      "value": 10
     }
   }
 }
