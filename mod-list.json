@@ -58,7 +58,7 @@
     },
     {
       "name": "rso-mod",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "TheFatController",
