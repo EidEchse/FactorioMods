@@ -10,7 +10,7 @@
     },
     {
       "name": "Bottleneck",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ElectricTrain",
@@ -30,7 +30,7 @@
     },
     {
       "name": "helmod",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "LoaderRedux",
@@ -54,7 +54,7 @@
     },
     {
       "name": "research-queue",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "rso-mod",
