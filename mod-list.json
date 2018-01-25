@@ -62,7 +62,7 @@
     },
     {
       "name": "TheFatController",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "upgrade-planner",
