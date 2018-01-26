@@ -46,11 +46,11 @@
     },
     {
       "name": "OutpostPlanner",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "PlannerCore",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "research-queue",
