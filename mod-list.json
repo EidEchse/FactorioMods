@@ -26,7 +26,7 @@
     },
     {
       "name": "FARL",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "helmod",
@@ -58,7 +58,7 @@
     },
     {
       "name": "rso-mod",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "TheFatController",
@@ -78,7 +78,7 @@
     },
     {
       "name": "YARM",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
