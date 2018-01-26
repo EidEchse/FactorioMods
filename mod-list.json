@@ -26,7 +26,7 @@
     },
     {
       "name": "FARL",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "helmod",
@@ -42,15 +42,15 @@
     },
     {
       "name": "long-reach",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "OutpostPlanner",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "PlannerCore",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "research-queue",
@@ -58,7 +58,7 @@
     },
     {
       "name": "rso-mod",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "TheFatController",
@@ -66,11 +66,11 @@
     },
     {
       "name": "upgrade-planner",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Vehicle Wagon",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Warehousing",
@@ -78,7 +78,7 @@
     },
     {
       "name": "YARM",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
