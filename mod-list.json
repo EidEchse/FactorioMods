@@ -10,7 +10,7 @@
     },
     {
       "name": "Bottleneck",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "ElectricTrain",
@@ -58,15 +58,15 @@
     },
     {
       "name": "rso-mod",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "TheFatController",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "upgrade-planner",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Vehicle Wagon",
